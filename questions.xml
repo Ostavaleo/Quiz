@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question time="60" score="1">
+    <text>Сколько байт в килобайте?</text>
+    <answers>
+      <answer>512</answer>
+      <answer>1000</answer>
+      <answer right="true">1024</answer>
+      <answer>2048</answer>
+    </answers>
+  </question>
+  <question time="60" score="2">
+    <text>В каком году Гагарин полетел в космос?</text>
+    <answers>
+      <answer>1957</answer>
+      <answer right="true">1961</answer>
+      <answer>1951</answer>
+      <answer>1958</answer>
+    </answers>
+  </question>
+  <question time="60" score="3">
+    <text>Сколько дней в високосном году?</text>
+    <answers>
+      <answer>365</answer>
+      <answer>364</answer>
+      <answer>363</answer>
+      <answer right="true">366</answer>
+    </answers>
+  </question>
+  <question time="60" score="4">
+    <text>В каком году запустили первый спутник?</text>
+    <answers>
+      <answer>1951</answer>
+      <answer right="true">1957</answer>
+      <answer>1959</answer>
+      <answer>1963</answer>
+    </answers>
+  </question>
+  <question time="60" score="5">
+    <text>сколько спутников у Юпитера?</text>
+    <answers>
+      <answer>19</answer>
+      <answer right="true">79</answer>
+      <answer>56</answer>
+      <answer>4</answer>
+    </answers>
+  </question>
+  <question time="60" score="6">
+    <text>За сколько минут свет от Солнца доходит до Земли?</text>
+    <answers>
+      <answer>7</answer>
+      <answer right="true">8</answer>
+      <answer>11</answer>
+      <answer>13</answer>
+    </answers>
+  </question>
+  <question time="60" score="8">
+    <text>Глубина Марианской впадины?</text>
+    <answers>
+      <answer>8740</answer>
+      <answer right="true">10028</answer>
+      <answer>9655</answer>
+      <answer>9203</answer>
+    </answers>
+  </question>
+  <question time="60" score="8">
+    <text>Автор романа "Война и Мир"?</text>
+    <answers>
+      <answer>Худой</answer>
+      <answer>Глухой</answer>
+      <answer>Хромой</answer>
+      <answer right="true">Толстой</answer>
+    </answers>
+  </question>
+  <question time="60" score="11">
+    <text>В какой стране самое большое население в мире?</text>
+    <answers>
+      <answer>Россия</answer>
+      <answer>Индия</answer>
+      <answer>США</answer>
+      <answer right="true">Китай</answer>
+    </answers>
+  </question>
+  <question time="60" score="14">
+    <text>Самая большая планета солнечной системы</text>
+    <answers>
+      <answer>Уран</answer>
+      <answer>Земля</answer>
+      <answer>Солнце</answer>
+      <answer right="true">Юпитер</answer>
+    </answers>
+  </question>
+</questions>
